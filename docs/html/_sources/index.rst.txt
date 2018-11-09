@@ -7,10 +7,10 @@ GF_Repo
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-
+   01_Potato_Pie
 
 Indices and tables
 ==================
