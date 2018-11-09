@@ -10,7 +10,8 @@ GF_Repo
    :maxdepth: 1
    :caption: Contents:
 
-   01_Potato_Pie
+   Crockpot_Beef_Stew
+   Potato_Pie
 
 Indices and tables
 ==================
