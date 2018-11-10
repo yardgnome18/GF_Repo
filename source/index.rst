@@ -11,14 +11,19 @@ GF_Repo
    :caption: Contents:
 
    baconbrussel
+   Bacon_Leek_Quiche
+   BBQ_Cluck_Salad
+   Chopped_Thai_Salad_w_Peanut_Sauce
    Chopped_Thai_Cluck_Salad
    Crockpot_Beef_Stew
    Mexican_Pepper_Cassarole
    PCC_Chili
    PFR
    Pine_Nut_Pasta
+   Potato_Leek_Soup
    Potato_Pie
    Power_Salad
+   Salted Caramel Frosting
 
 Indices and tables
 ==================

@@ -7,22 +7,39 @@ Ingredients
 
 ::
 
+
     1/2 pound lean ground beef
+
     1 tablespoon olive oil
+
     1/2 yellow onion, diced
+
     2 ribs celery, diced
+
     2 medium carrots, diced
+
     1/2 green bell pepper, chopped
+
     3/4 teaspoon dried oregano
+
     1 tablespoon minced garlic
+
     Salt and pepper, to taste
+
     Pinch of crushed red pepper flakes
+
     1 1/2 teaspoons chili powder
+
     1 (12-ounce) can crushed tomatoes
+
     1 (12-ounce) can diced tomatoes
+
     1 (12-ounce) can kidney beans, rinsed and drained
+
     1/2 cup water, or as needed
+
     1 cup tomato sauce
+
     2 tablespoons red wine
 
 Preparation

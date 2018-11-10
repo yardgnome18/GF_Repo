@@ -105,7 +105,7 @@ html_static_path = ['ystatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'GF_Repo_Docsdoc'
+htmlhelp_basename = 'GF_Repo_Docs'
 
 
 # -- Options for LaTeX output ------------------------------------------------
