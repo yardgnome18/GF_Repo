@@ -13,17 +13,26 @@ GF_Repo
    baconbrussel
    Bacon_Leek_Quiche
    BBQ_Cluck_Salad
+   Beef_Broc
+   Burrito_Bowl
    Chop_Thai_Salad_w_Peanut_Sauce
    Chopped_Thai_Cluck_Salad
    Crockpot_Beef_Stew
+   Crockpot_Pumpkin_P
    Mexican_Pepper_Cassarole
    PCC_Chili
    PFR
    Pine_Nut_Pasta
    Potato_Leek_Soup
    Potato_Pie
+   Potato_Sal
    Power_Salad
+   Pumpkin_Bread
    Salted_Caramel_Frosting
+   Shep_Pie
+   Skillet_Las
+   SPH
+   Thai-Basil_Beef
 
 Indices and tables
 ==================
