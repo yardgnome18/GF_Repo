@@ -12,10 +12,10 @@ Ingredients
     2 boneless skinless chicken breasts
     1 small head green or white cabbage (2 cups shredded)
     1 large carrot (1½ cups shredded)
-    1 green papaya (1½ cups shredded)
-    ½ cup fresh cilantro
-    ½ cup green onions
-    ½ cup chopped peanuts
+    1 cucumber (shredded)
+    1/2 cup fresh cilantro
+    1/2 cup green onions
+    1/2 cup chopped peanuts
 
 **Dressing**
 

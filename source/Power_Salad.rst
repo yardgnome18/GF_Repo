@@ -1,5 +1,5 @@
 -------------------------------------------------------------
-Chopped Thai Salad with Sesame Garlic Dressing (Power Salad)
+Power Salad --Chopped Thai Salad with Sesame Garlic Dressing
 -------------------------------------------------------------
 
 Ingredients
@@ -9,14 +9,22 @@ Ingredients
 
 ::
 
-    ⅓ cup canola oil
+    1/3 cup canola oil
+
     3 cloves garlic, peeled
+    
     3 tablespoons low sodium soy sauce
+    
     2 tablespoons water
+    
     2 tablespoons white distilled vinegar
+    
     2 tablespoons honey
+    
     1 tablespoon sesame oil
-    1 tablespoon lemongrass paste (ginger would also work)
+    
+    1 tablespoon lemongrass paste
+    
     a squeeze of lime juice
 
 **For the salad:**
@@ -29,7 +37,7 @@ Ingredients
     2 bell peppers (1 red, 1 yellow)
     1 cup cilantro leaves
     3 green onions
-    ¾ cup cashews (if you can find them, Trader Joe's Thai Lime and Chili Cashews are the bomb)
+    ¾ cup Thai Lime and Chili Cashews 
 
 Instructions
 ------------
