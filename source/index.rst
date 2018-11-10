@@ -13,7 +13,7 @@ GF_Repo
    baconbrussel
    Bacon_Leek_Quiche
    BBQ_Cluck_Salad
-   Chopped_Thai_Salad_w_Peanut_Sauce
+   Chop_Thai_Salad_w_Peanut_Sauce
    Chopped_Thai_Cluck_Salad
    Crockpot_Beef_Stew
    Mexican_Pepper_Cassarole
@@ -23,7 +23,7 @@ GF_Repo
    Potato_Leek_Soup
    Potato_Pie
    Power_Salad
-   Salted Caramel Frosting
+   Salted_Caramel_Frosting
 
 Indices and tables
 ==================
