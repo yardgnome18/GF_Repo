@@ -32,7 +32,7 @@ Ingredients
 
     optional vegetables
 
-    1 1/2 C grated swiss cheese
+    1 1/2 C grated monterey jack cheese
 
     1 C grated cheddar
 

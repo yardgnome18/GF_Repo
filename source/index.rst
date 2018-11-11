@@ -7,41 +7,60 @@ GLUTEN FREE RECIPE REPOSITORY
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Appetizers:
 
-   Apple_Cake
+   Cowboy_Caviar
+   RRPS_Quinoa_Salsa
+   Potato_Sal
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Entrees:
+   
    baconbrussel
-   Bacon_Leek_Quiche
    BBQ_Cluck_Salad
    Beef_Broc
    Burrito_Bowl
-   Candied_Pecans
-   Chicken_EC
-   Chop_Thai_Salad_w_Peanut_Sauce
-   Chopped_Thai_Cluck_Salad
-   Cowboy_Caviar
    Crockpot_Beef_Stew
-   Crockpot_Pumpkin_P
-   Double_ASM
    Hangover_Hash
    Mexican_Pepper_Cassarole
    PCC_Chili
-   PFR
    Pine_Nut_Pasta
    Potato_Leek_Soup
-   Potato_Pie
-   Potato_Sal
-   Power_Salad
-   Pumpkin_Bread
-   Quiche
-   RRPS_Quinoa_Salsa
    RSRisotto
-   Salted_Caramel_Frosting
-   Shep_Pie
    Skillet_Las
    SA_Quinoa_Salad
-   spice_cake
    SPH
    Sweet_PS
-   Thai_Basil_Beef
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Cassarole:
+
+   Bacon_Leek_Quiche
+   Chicken_EC
+   Potato_Pie
+   Quiche
+   Shep_Pie
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Thai Inspired:
+
+   Chop_Thai_Salad_w_Peanut_Sauce
+   Chopped_Thai_Cluck_Salad
+   Thai_Basil_Beef
+   PFR
+   Power_Salad
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Desserts:
+
+   Apple_Cake
+   Double_ASM
+   Candied_Pecans
+   Crockpot_Pumpkin_P
+   Pumpkin_Bread
+   Salted_Caramel_Frosting
+   spice_cake
