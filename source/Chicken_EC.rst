@@ -34,7 +34,7 @@ Ingredients
 
 Oven
 -----
-400 F for 12 to 15 minutes or until cheese is browned
+400 F for 20 minutes or until cheese is browned
 
 Instructions
 -------------
@@ -43,7 +43,7 @@ Instructions
 
 2. Add chilies and cream. Boil over high heat until thick (2 min). Add chicken, tomato, and 1 C jack cheese.
 
-3. Warm tortillas with damp paper towel to soften, fill each with filling. Bake uncovered in lightly greased pan at 400 F for 12 to 15 minutes.
+3. Grease 9 x 13 pan and add small amount of filling, cover with tortillas, and repeat the filling process finishing with the last of the filling on top of a tortilla bed.  Cover with shredded cheese and cook uncovered for 20 minutes.
 
 
 
