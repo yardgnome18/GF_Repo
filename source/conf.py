@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Gluten Free Receipe Repository'
+project = 'Gluten Free Recipe Repository'
 copyright = '2018, EB'
 author = 'EB'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '0.01'
+release = '0.01A'
 
 
 # -- General configuration ---------------------------------------------------
