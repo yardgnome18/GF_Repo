@@ -10,7 +10,7 @@ Ingredients
 
     1/2 pound lean ground beef
 
-    1 tablespoon olive oil
+    1 T olive oil
 
     1/2 yellow onion, diced
 
@@ -22,7 +22,7 @@ Ingredients
 
     3/4 teaspoon dried oregano
 
-    1 tablespoon minced garlic
+    1 T minced garlic
 
     Salt and pepper, to taste
 
@@ -40,7 +40,7 @@ Ingredients
 
     1 cup tomato sauce
 
-    2 tablespoons red wine
+    2 T red wine
 
 Preparation
 -----------
