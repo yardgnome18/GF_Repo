@@ -7,15 +7,24 @@ Ingredients
 
 ::
 
+
     1 lemon
+
     1 orange
+
     1 large shallot, minced
-    1/2 cup olive oil
+
+    1/2 C olive oil
+
     salt and pepper
+
     6 slices cooked bacon, crumbled or chopped
+
     4 dozen brussel sprouts
-    1 cup almonds
-    1 cup grated Pecorino-Romano cheese
+
+    1 C almonds
+
+    1 C grated Pecorino-Romano cheese
 
 Instructions
 ------------

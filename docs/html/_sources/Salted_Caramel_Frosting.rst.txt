@@ -6,11 +6,17 @@ Ingredients
 -----------
 
 ::
+
     1/2 cup salted butter
+
     1 cup packed dark brown sugar
+
     1/3 cup heavy cream
+
     1/4 tsp salt
+
     2-3 cups powdered sugar, sifted
+
 
 Directions
 -----------

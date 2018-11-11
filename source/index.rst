@@ -43,5 +43,5 @@ GLUTEN FREE RECIPE REPOSITORY
    spice_cake
    SPH
    Sweet_PS
-   Thai-Basil_Beef
+   Thai_Basil_Beef
 

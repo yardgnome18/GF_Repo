@@ -1,5 +1,5 @@
 -------------------------------
-Crustless Bacon and Leek Quiche
+Bacon and Leek Quiche
 -------------------------------
 
 Ingredients
@@ -7,13 +7,21 @@ Ingredients
 
 ::
 
+
     Softened butter for the pie plate, about 2 t.
+
     1/2 pound good bacon, diced
+
     1 small leek minced
+
     1/4 pound Gruyere, Emmenthaler, or Swiss cheese grated
+
     1 medium bunch of fat asparagus spears
+
     5 eggs
+
     1 1/2 C heavy cream
+
     Salt and pepper
 
 Oven
