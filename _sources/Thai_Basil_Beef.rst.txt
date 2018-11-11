@@ -14,7 +14,7 @@ Ingredients
 
     1 cup coconut milk
 
-    1 cup
+    1 cup water
 
     1 lb flank steak, thinly sliced
 
