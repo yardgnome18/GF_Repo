@@ -8,20 +8,35 @@ Ingredients
 
 ::
 
-    1 T olive oil
-    1 C diced onions
+
+    1   T olive oil
+
+    1   C diced onions
+
     1/2 C diced carrots
-    3 cloves garlic, minced
-    1 T dried Italian herb mix
+
+    3   cloves garlic, minced
+
+    1   T dried Italian herb mix
+
     Salt and pepper, to taste
+
     Pinch of red pepper flakes
-    1 lb ground beef or Italian sausage
-    1 C diced zucchini
-    8 oz uncooked pasta
-    14 oz can diced tomatoes
-    2 C marinara sauce
-    1 C shreded mozzarella cheese
+
+    1   lb ground beef or Italian sausage
+
+    1   C diced zucchini
+
+    8   oz uncooked pasta
+
+    14  oz can diced tomatoes
+
+    2   C marinara sauce
+
+    1   C shreded mozzarella cheese
+
     1/2 C ricotta cheese
+
     fresh basil leaves, to garnish
 
 Instructions

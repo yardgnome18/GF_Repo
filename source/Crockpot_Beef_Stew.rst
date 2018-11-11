@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     2 lbs beef stew meat, cut into 1-inch cubes
 
     1/4 C all-purpose flour

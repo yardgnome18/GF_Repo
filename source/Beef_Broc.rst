@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     1 lb broccoli florrets
 
     2 T totasted sesame oil

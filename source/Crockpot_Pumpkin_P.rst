@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     15 oz solid pumpkin
 
     12 oz evaporated milk

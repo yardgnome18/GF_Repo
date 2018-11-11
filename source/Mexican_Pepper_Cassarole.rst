@@ -8,17 +8,29 @@ Ingredients
 ::
 
     2 red bell peppers
+
     2 green bell peppers
+
     1 jalapeno or 2 chipotle peppers (optional - just for more kick)
-    ½ red onion
-    2 cups frozen corn
-    2 teaspoons chili powder
-    2 teaspoon cumin
-    salt to taste (about 1 teaspoon is a good ballpark measure)
-    2 cups Mexican cheese (mine was a Sargento blend)
+
+    1/2 red onion
+
+    2 C frozen corn
+
+    2 t chili powder
+
+    2 t cumin
+
+    salt to taste (about 1 t ea)
+
+    2 C Mexican cheese
+
     18-20 corn tortillas
+
     1 can refried beans
-    2 cups red enchilada sauce
+
+    2 C red enchilada sauce
+
     cilantro, guacamole, or sour cream for topping
 
 Instructions

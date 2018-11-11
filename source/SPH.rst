@@ -7,14 +7,23 @@ Ingredients
 
 ::
 
+
     2 T oil
+
     1 lb ground sausage
+
     1/2 onion
+
     3 cloves garlic
+
     1 t chopped fresh thyme
+
     1 1/2 lbs garnet or jewel yams
+
     1 bunch kale
+
     salt and pepper
+
     fried eggs
 
 

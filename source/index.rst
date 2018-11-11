@@ -15,6 +15,7 @@ GF_Repo
    BBQ_Cluck_Salad
    Beef_Broc
    Burrito_Bowl
+   Chicken_EC
    Chop_Thai_Salad_w_Peanut_Sauce
    Chopped_Thai_Cluck_Salad
    Crockpot_Beef_Stew
@@ -28,6 +29,7 @@ GF_Repo
    Potato_Sal
    Power_Salad
    Pumpkin_Bread
+   Quiche
    Salted_Caramel_Frosting
    Shep_Pie
    Skillet_Las

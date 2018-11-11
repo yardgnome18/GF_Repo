@@ -1,0 +1,64 @@
+------------------------
+Quiche
+------------------------
+
+
+Ingredients
+-----------
+
+**Crust**
+
+::
+
+
+    1 1/2 C flour
+
+    1 t salt
+
+    1 t sugar
+
+    1/2 C oil
+
+    1/4 C milk
+
+**Filling**
+
+::
+
+
+    1/2 onion, diced
+
+    8 oz diced ham
+
+    optional vegetables
+
+    1 1/2 C grated swiss cheese
+
+    1 C grated cheddar
+
+**Egg Part**
+
+::
+
+
+    1/2 C mayonnaise
+
+    1/2 C milk
+
+    3-4 eggs"
+
+
+Oven
+-----
+400 F for 35 to 40 mins
+
+Instructions
+--------------
+"1. Mix dry ingredients and wet ingredients sparately, combine and knead dough. Spread thin in pie dish. 
+
+2. Mix filling ingredients to a homogeneous combination. 
+
+3. Beat liquid ingredients and pour over filling in crust. 
+
+4. Bake at 400 F for 35 to 40 min.
+
