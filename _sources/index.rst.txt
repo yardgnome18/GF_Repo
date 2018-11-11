@@ -16,7 +16,7 @@ GLUTEN FREE RECIPE REPOSITORY
 .. toctree::
    :maxdepth: 1
    :caption: Entrees:
-   
+
    baconbrussel
    BBQ_Cluck_Salad
    Beef_Broc
@@ -49,6 +49,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Chop_Thai_Salad_w_Peanut_Sauce
    Chopped_Thai_Cluck_Salad
+   FRB
    Thai_Basil_Beef
    PFR
    Power_Salad
