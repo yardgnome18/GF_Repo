@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'GF_Repo_Docs'
+project = 'Gluten Free Receipe Repository'
 copyright = '2018, EB'
 author = 'EB'
 
