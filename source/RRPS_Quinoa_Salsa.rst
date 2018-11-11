@@ -21,7 +21,6 @@ Ingredients
 
 ::
 
-
     1 C cooked quinoa
 
     1/4 small red onion, diced
