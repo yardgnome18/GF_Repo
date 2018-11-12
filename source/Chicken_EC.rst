@@ -19,9 +19,9 @@ Ingredients
 
     4 oz diced chilies
 
-    1/2 C whipping cream
+    3/4 C whipping cream
 
-    1 small tomato, diced
+    1 can diced tomato
 
     1/2 C salsa
 

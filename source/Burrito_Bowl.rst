@@ -1,14 +1,48 @@
---------------
-Burrito Bowls
---------------
+------------------------------------------------
+Burrito Bowls with Carnitas and Chipotle Mayo
+------------------------------------------------
 
 Ingredients
 -----------
 
+**Carnitas**
+
 ::
 
+    3 pounds boneless pork shoulder or pork butt, cut into 2-inch cubes
 
-    2 t high heat oil
+    1/2 cup orange juice
+
+    1/4 cup lime juice (from about 2 to 3 limes)
+
+    4 cloves garlic, peeled and crushed
+
+    1 teaspoon ground cumin
+
+    1 teaspoon salt or to taste
+
+**Chipotle Mayo**
+
+::
+
+    1 cup mayo
+
+    2 tablespoon water
+
+    2 - 4 teaspoons lime juice
+
+    1/4 teaspoon salt, more to taste
+
+    1 teaspoon chili powder
+
+    1 teaspoon smoked paprika
+
+    1/2 to 1 teaspoon chipotle powder
+
+
+**Cilantro Rice**
+
+::
 
     1 C chopped fresh cilantro, plus extra for garnish
 
@@ -18,34 +52,50 @@ Ingredients
 
     salt to taste
 
-    1/2 onion, chopped
+**Bowl Filling**
 
-    1 red bell pepper, chopped
+::
 
-    2 cloves garlic, minced
+    2 avocado, sliced
+
+    1/4 head finely sliced red cabbage
+
+    1 red bell pepper finely chopped
 
     1 can black beans, rinsed and drained
 
-    1 t cumin
+Prepare Carnitas
+-----------------
 
-    1 t dried oregano
+Place the pork in a large Dutch oven or heavy pot w/ orange juice, lime juice, garlic, cumin, salt and enough water to just barely cover the meat.
 
-    1/2 t paprika
+Bring the pot to a boil and then reduce the heat to a simmer. Simmer uncovered for two hours. Don’t touch the meat.
 
-    1 avocado, sliced
+After two hours, increase the heat to medium-high and while occasionally stirring and turning the pieces, continue to cook for about 45 minutes, or until all of the liquid has evaporated
 
-    shredded salad
+Let pork sizzle in its own fat long enough to brown at the edges, turn pieces gentlyonly as needed to prevent singes.
 
-    chopped tomatoes
+When pork has browned on both sides, it’s ready. Shred it and prepare for the bowl.
 
-    sour cream
+Prepare Cilantro Rice
+----------------------
 
+Cook rice in rice cooker
 
-Instructions
--------------
+Add cilantro, lime juice and salt. Stir.
 
-1. Fold cilantro and lime juice into cooked rice, season with salt. 
+Prepare Chipotle Mayo
+------------------------
 
-2. Heat oil in a pan, cook onion, bell pepper and garlic until soft. Add beans, cumin, oregano, paprika, and heat through.
+Place all ingredients in a small bowl and whisk until smooth.
 
-3. Combine everything with toppings.
+Taste, adjust heat, adding more if you like.
+
+Store in a squirty condiment container to dress sandwiches, salads, and burrito bowls.
+
+Prepare Bowl
+------------------
+
+Slice cabbage thinly.  Drain and rinse beans.  Saute diced RBP and add to beans on low heat.
+
+Combine everything in a bowl, layering upward from rice and beans and finishing with chipotle mayo.
