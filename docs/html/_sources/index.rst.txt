@@ -9,9 +9,13 @@ GLUTEN FREE RECIPE REPOSITORY
    :maxdepth: 1
    :caption: Appetizers:
 
+   blueberry_qs
    Cowboy_Caviar
+   layered_hd
    RRPS_Quinoa_Salsa
+   roasted_yam_dip
    Potato_Sal
+   wrv_salad
 
 .. toctree::
    :maxdepth: 1
