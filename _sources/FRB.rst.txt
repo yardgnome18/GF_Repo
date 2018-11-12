@@ -2,7 +2,6 @@
 Fresh Roll Bowls
 -----------------
 
-
 Ingredients
 ------------
 
@@ -52,5 +51,3 @@ Mince, shred, or matchstick other ingredients as appropriate.
 Toss all ingredients except avocado in large bowl.
 
 Add avocado last and fold in gently.
-
-
