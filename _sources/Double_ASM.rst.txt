@@ -33,6 +33,7 @@ Ingredients
     1/2 C tapioca flour
     1/2 t baking soda
     1 t baking powder
+    1 t xantham gum
     1/2 t salt
 
 Oven
@@ -40,17 +41,18 @@ Oven
 
 350 F for 18 to 22 minutes
 
-
 Instructions
 -------------
 
-1. In large bowl combine flour blend cinnamon, ginger, cloves, cardamom.
+In large bowl combine flour blend cinnamon, ginger, cloves, cardamom.
 
-2. In smaller bowl whisk together eggs, applesauce, oil, milk, vanilla, and brown sugar.
+In smaller bowl whisk together eggs, applesauce, oil, milk, vanilla, and brown sugar.
 
-3. Stir wet and dry ingredients together, let sit for 5 mintues.
+Stir wet and dry ingredients together, let sit for 5 mintues.
 
-4. Gently stir in apples and walnuts.
+Gently stir in apples and walnuts.
 
-5. Line pan with paper or grease and then fill each muffin cup about 3/4 full. 6. Bake 18 to 22 minutes until toothpick comes out clean, cool on rack.
+Line pan with paper or grease and then fill each muffin cup about 3/4 full. 
+
+Bake 18 to 22 minutes until toothpick comes out clean, cool on rack.
 

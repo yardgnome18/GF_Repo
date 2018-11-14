@@ -21,12 +21,15 @@ GLUTEN FREE RECIPE REPOSITORY
    :maxdepth: 1
    :caption: Entrees:
 
+   Asp_Risotto
    baconbrussel
    BBQ_Cluck_Salad
    Beef_Broc
    Burrito_Bowl
+   Cashew_cluck
    Crockpot_Beef_Stew
    Hangover_Hash
+   Mid_Risotto
    Mexican_Pepper_Cassarole
    PCC_Chili
    Pine_Nut_Pasta
@@ -66,6 +69,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Double_ASM
    Candied_Pecans
    Crockpot_Pumpkin_P
+   Peach_Crisp
    Pumpkin_Bread
    Salted_Caramel_Frosting
    spice_cake
