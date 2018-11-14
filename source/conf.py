@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'GF_Repo_Docs.tex', 'GF\\_Repo\\_Docs Documentation',
+    ('index', 'GF_Repo_Docs.tex', 'GF\\_Repo\\_Docs Documentation',
      'EB', 'manual'),
 ]
 

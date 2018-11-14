@@ -1,0 +1,140 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Blueberry Quinoa Salad}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Ingredients}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Instructions}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}Cowboy Caviar}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ingredients}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Instructions}{3}{section.2.2}
+\contentsline {chapter}{\numberline {3}Layered Hummus Dip}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Instructions}{5}{section.3.1}
+\contentsline {chapter}{\numberline {4}Roasted Red Pepper Soup with Quinoa Salsa}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Ingredients}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Instructions}{7}{section.4.2}
+\contentsline {chapter}{\numberline {5}Roasted Yam Dip}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ingredients}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Instructions}{9}{section.5.2}
+\contentsline {chapter}{\numberline {6}Awesome Potato Salad}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Ingredients}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}Instructions}{11}{section.6.2}
+\contentsline {chapter}{\numberline {7}Warm Root Vegetable Salad}{13}{chapter.7}
+\contentsline {section}{\numberline {7.1}Oven}{13}{section.7.1}
+\contentsline {section}{\numberline {7.2}Instructions}{13}{section.7.2}
+\contentsline {chapter}{\numberline {8}Bacon Brussel Sprout Salad}{15}{chapter.8}
+\contentsline {section}{\numberline {8.1}Ingredients}{15}{section.8.1}
+\contentsline {section}{\numberline {8.2}Instructions}{15}{section.8.2}
+\contentsline {section}{\numberline {8.3}Notes}{16}{section.8.3}
+\contentsline {chapter}{\numberline {9}BBQ Chicken Salad}{17}{chapter.9}
+\contentsline {section}{\numberline {9.1}Ingredients}{17}{section.9.1}
+\contentsline {section}{\numberline {9.2}Instructions}{17}{section.9.2}
+\contentsline {chapter}{\numberline {10}Beef Broccoli Stir Fry}{19}{chapter.10}
+\contentsline {section}{\numberline {10.1}Ingredients}{19}{section.10.1}
+\contentsline {section}{\numberline {10.2}Instructions}{19}{section.10.2}
+\contentsline {chapter}{\numberline {11}Burrito Bowls with Carnitas and Chipotle Mayo}{21}{chapter.11}
+\contentsline {section}{\numberline {11.1}Ingredients}{21}{section.11.1}
+\contentsline {section}{\numberline {11.2}Prepare Carnitas}{22}{section.11.2}
+\contentsline {section}{\numberline {11.3}Prepare Cilantro Rice}{22}{section.11.3}
+\contentsline {section}{\numberline {11.4}Prepare Chipotle Mayo}{22}{section.11.4}
+\contentsline {section}{\numberline {11.5}Prepare Bowl}{22}{section.11.5}
+\contentsline {chapter}{\numberline {12}Crockpot Beef Stew}{23}{chapter.12}
+\contentsline {section}{\numberline {12.1}Ingredients}{23}{section.12.1}
+\contentsline {section}{\numberline {12.2}Oven/Crockpot}{23}{section.12.2}
+\contentsline {section}{\numberline {12.3}Directions}{23}{section.12.3}
+\contentsline {chapter}{\numberline {13}Hangover Hash}{25}{chapter.13}
+\contentsline {section}{\numberline {13.1}Ingredients}{25}{section.13.1}
+\contentsline {section}{\numberline {13.2}Instructions}{25}{section.13.2}
+\contentsline {chapter}{\numberline {14}Mexican Casserole with Roasted Corn and Peppers}{27}{chapter.14}
+\contentsline {section}{\numberline {14.1}Ingredients}{27}{section.14.1}
+\contentsline {section}{\numberline {14.2}Instructions}{27}{section.14.2}
+\contentsline {section}{\numberline {14.3}Assemble}{28}{section.14.3}
+\contentsline {section}{\numberline {14.4}Bake}{28}{section.14.4}
+\contentsline {chapter}{\numberline {15}PCC Chili Con Carne}{29}{chapter.15}
+\contentsline {section}{\numberline {15.1}Ingredients}{29}{section.15.1}
+\contentsline {section}{\numberline {15.2}Preparation}{29}{section.15.2}
+\contentsline {section}{\numberline {15.3}Notes}{30}{section.15.3}
+\contentsline {chapter}{\numberline {16}Pine Nut Pasta}{31}{chapter.16}
+\contentsline {section}{\numberline {16.1}Ingredients}{31}{section.16.1}
+\contentsline {section}{\numberline {16.2}Directions}{31}{section.16.2}
+\contentsline {chapter}{\numberline {17}Potato Leek Soup}{33}{chapter.17}
+\contentsline {section}{\numberline {17.1}Ingredients}{33}{section.17.1}
+\contentsline {section}{\numberline {17.2}Directions}{33}{section.17.2}
+\contentsline {chapter}{\numberline {18}Roasted Squash Risotto}{35}{chapter.18}
+\contentsline {section}{\numberline {18.1}Ingredients}{35}{section.18.1}
+\contentsline {section}{\numberline {18.2}Oven}{35}{section.18.2}
+\contentsline {section}{\numberline {18.3}Instructions}{35}{section.18.3}
+\contentsline {chapter}{\numberline {19}Skillet Lasagna}{37}{chapter.19}
+\contentsline {section}{\numberline {19.1}Ingredients}{37}{section.19.1}
+\contentsline {section}{\numberline {19.2}Instructions}{37}{section.19.2}
+\contentsline {chapter}{\numberline {20}South American Quinoa Salad}{39}{chapter.20}
+\contentsline {section}{\numberline {20.1}Instructions}{39}{section.20.1}
+\contentsline {chapter}{\numberline {21}Sweet Potato Hash}{41}{chapter.21}
+\contentsline {section}{\numberline {21.1}Ingredients}{41}{section.21.1}
+\contentsline {section}{\numberline {21.2}Instructions}{41}{section.21.2}
+\contentsline {chapter}{\numberline {22}Sweet Potato Souffle}{43}{chapter.22}
+\contentsline {section}{\numberline {22.1}Ingredients}{43}{section.22.1}
+\contentsline {section}{\numberline {22.2}Instructions}{43}{section.22.2}
+\contentsline {chapter}{\numberline {23}Bacon and Leek Quiche}{45}{chapter.23}
+\contentsline {section}{\numberline {23.1}Ingredients}{45}{section.23.1}
+\contentsline {section}{\numberline {23.2}Oven}{45}{section.23.2}
+\contentsline {section}{\numberline {23.3}Instructions}{45}{section.23.3}
+\contentsline {chapter}{\numberline {24}Chicken Enchilada Cassarole}{47}{chapter.24}
+\contentsline {section}{\numberline {24.1}Ingredients}{47}{section.24.1}
+\contentsline {section}{\numberline {24.2}Oven}{47}{section.24.2}
+\contentsline {section}{\numberline {24.3}Instructions}{47}{section.24.3}
+\contentsline {chapter}{\numberline {25}Potato Pie}{49}{chapter.25}
+\contentsline {section}{\numberline {25.1}Ingredients}{49}{section.25.1}
+\contentsline {section}{\numberline {25.2}Oven}{49}{section.25.2}
+\contentsline {section}{\numberline {25.3}Preparation}{49}{section.25.3}
+\contentsline {chapter}{\numberline {26}Quiche}{51}{chapter.26}
+\contentsline {section}{\numberline {26.1}Ingredients}{51}{section.26.1}
+\contentsline {section}{\numberline {26.2}Oven}{51}{section.26.2}
+\contentsline {section}{\numberline {26.3}Instructions}{52}{section.26.3}
+\contentsline {chapter}{\numberline {27}Shepherd\IeC {\textquoteright }s Pie}{53}{chapter.27}
+\contentsline {section}{\numberline {27.1}Ingredients}{53}{section.27.1}
+\contentsline {section}{\numberline {27.2}Oven}{53}{section.27.2}
+\contentsline {section}{\numberline {27.3}Preparation}{53}{section.27.3}
+\contentsline {chapter}{\numberline {28}Chopped Thai Salad with Coconut Curry Dressing}{55}{chapter.28}
+\contentsline {section}{\numberline {28.1}Ingredients}{55}{section.28.1}
+\contentsline {section}{\numberline {28.2}Instructions}{55}{section.28.2}
+\contentsline {chapter}{\numberline {29}Chopped Thai Chicken Salad}{57}{chapter.29}
+\contentsline {section}{\numberline {29.1}Ingredients}{57}{section.29.1}
+\contentsline {section}{\numberline {29.2}Instructions}{58}{section.29.2}
+\contentsline {chapter}{\numberline {30}Fresh Roll Bowls}{59}{chapter.30}
+\contentsline {section}{\numberline {30.1}Ingredients}{59}{section.30.1}
+\contentsline {section}{\numberline {30.2}Instructions}{59}{section.30.2}
+\contentsline {chapter}{\numberline {31}Thai Basil Beef with Coconut Rice}{61}{chapter.31}
+\contentsline {section}{\numberline {31.1}Ingredients}{61}{section.31.1}
+\contentsline {section}{\numberline {31.2}Instructions}{61}{section.31.2}
+\contentsline {chapter}{\numberline {32}Pineapple Fried Rice}{63}{chapter.32}
+\contentsline {section}{\numberline {32.1}Ingredients}{63}{section.32.1}
+\contentsline {section}{\numberline {32.2}Instructions}{63}{section.32.2}
+\contentsline {section}{\numberline {32.3}Notes}{64}{section.32.3}
+\contentsline {chapter}{\numberline {33}Power Salad \textendash {} Chopped Thai Salad with Sesame Garlic Dressing}{65}{chapter.33}
+\contentsline {section}{\numberline {33.1}Ingredients}{65}{section.33.1}
+\contentsline {section}{\numberline {33.2}Instructions}{66}{section.33.2}
+\contentsline {section}{\numberline {33.3}Notes}{66}{section.33.3}
+\contentsline {chapter}{\numberline {34}Apple Cake}{67}{chapter.34}
+\contentsline {section}{\numberline {34.1}Ingredients}{67}{section.34.1}
+\contentsline {section}{\numberline {34.2}Oven}{67}{section.34.2}
+\contentsline {section}{\numberline {34.3}Instructions}{67}{section.34.3}
+\contentsline {chapter}{\numberline {35}Double Apple Spice Muffins}{69}{chapter.35}
+\contentsline {section}{\numberline {35.1}Ingredients}{69}{section.35.1}
+\contentsline {section}{\numberline {35.2}Oven}{69}{section.35.2}
+\contentsline {section}{\numberline {35.3}Instructions}{69}{section.35.3}
+\contentsline {chapter}{\numberline {36}Sugared Pecans}{71}{chapter.36}
+\contentsline {section}{\numberline {36.1}Ingredients}{71}{section.36.1}
+\contentsline {section}{\numberline {36.2}Oven}{71}{section.36.2}
+\contentsline {section}{\numberline {36.3}Instructions}{71}{section.36.3}
+\contentsline {chapter}{\numberline {37}Crockpot Pumpkin Pudding}{73}{chapter.37}
+\contentsline {section}{\numberline {37.1}Ingredients}{73}{section.37.1}
+\contentsline {section}{\numberline {37.2}Preparation}{73}{section.37.2}
+\contentsline {chapter}{\numberline {38}Healthy Pumpkin Bread (Cake)}{75}{chapter.38}
+\contentsline {section}{\numberline {38.1}Ingredients}{75}{section.38.1}
+\contentsline {section}{\numberline {38.2}Oven}{75}{section.38.2}
+\contentsline {section}{\numberline {38.3}Instructions}{75}{section.38.3}
+\contentsline {chapter}{\numberline {39}Salted Caramel Frosting}{77}{chapter.39}
+\contentsline {section}{\numberline {39.1}Ingredients}{77}{section.39.1}
+\contentsline {section}{\numberline {39.2}Directions}{77}{section.39.2}
+\contentsline {chapter}{\numberline {40}Spice Cake}{79}{chapter.40}
+\contentsline {section}{\numberline {40.1}Ingredients}{79}{section.40.1}
+\contentsline {section}{\numberline {40.2}Oven}{79}{section.40.2}
+\contentsline {section}{\numberline {40.3}Instructions}{79}{section.40.3}

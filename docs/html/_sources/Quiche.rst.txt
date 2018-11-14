@@ -10,21 +10,21 @@ Ingredients
 
 ::
 
+    1/4 C tapioca flour
 
-    1 1/2 C flour
+    3/4 C amarath flour
 
     1 t salt
 
     1 t sugar
 
-    1/2 C oil
+    1/4 C olive oil
 
-    1/4 C milk
+    1/8+ C milk to consistency
 
 **Filling**
 
 ::
-
 
     1/2 onion, diced
 
@@ -39,7 +39,6 @@ Ingredients
 **Egg Part**
 
 ::
-
 
     1/2 C mayonnaise
 
