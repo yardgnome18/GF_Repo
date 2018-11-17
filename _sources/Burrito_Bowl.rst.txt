@@ -5,7 +5,8 @@ Burrito Bowls with Carnitas and Chipotle Mayo
 Ingredients
 -----------
 
-**Carnitas**
+Carnitas
+********
 
 ::
 
@@ -21,7 +22,8 @@ Ingredients
 
     1 teaspoon salt or to taste
 
-**Chipotle Mayo**
+Chipotle Mayo
+*************
 
 ::
 
@@ -40,7 +42,8 @@ Ingredients
     1/2 to 1 teaspoon chipotle powder
 
 
-**Cilantro Rice**
+Cilantro Rice
+*************
 
 ::
 
@@ -52,7 +55,8 @@ Ingredients
 
     salt to taste
 
-**Bowl Filling**
+Bowl Filling
+************
 
 ::
 
@@ -64,8 +68,11 @@ Ingredients
 
     1 can black beans, rinsed and drained
 
+Instructions
+-------------
+
 Prepare Carnitas
------------------
+*****************
 
 Place the pork in a large Dutch oven or heavy pot w/ orange juice, lime juice, garlic, cumin, salt and enough water to just barely cover the meat.
 
@@ -78,14 +85,14 @@ Let pork sizzle in its own fat long enough to brown at the edges, turn pieces ge
 When pork has browned on both sides, it’s ready. Shred it and prepare for the bowl.
 
 Prepare Cilantro Rice
-----------------------
+***********************
 
 Cook rice in rice cooker
 
 Add cilantro, lime juice and salt. Stir.
 
 Prepare Chipotle Mayo
-------------------------
+***********************
 
 Place all ingredients in a small bowl and whisk until smooth.
 
@@ -94,7 +101,7 @@ Taste, adjust heat, adding more if you like.
 Store in a squirty condiment container to dress sandwiches, salads, and burrito bowls.
 
 Prepare Bowl
-------------------
+**************
 
 Slice cabbage thinly.  Drain and rinse beans.  Saute diced RBP and add to beans on low heat.
 
