@@ -9,23 +9,36 @@ Ingredients
 
 ::
 
+    
     2 C Cooked White Rice
+    
     2 T oil
+    
     3 Chicken breast cubed
+    
     2 C Chopped Zucchini
+    
     1 C Chopped Scallions
+    
     1 C Chopped Carrots
+    
     1 C Chopped Cashews
+    
     1 C Chicken Stock
 
 **Sauce**
 
 ::
 
+    
     3 T gluten-free soy sauce
+    
     1 T cornstarch
+    
     1 1/2 garlic powder
+    
     1 1/2 ground ginger
+    
     1 salt
 
 Instructions

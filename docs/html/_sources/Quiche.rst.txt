@@ -53,7 +53,7 @@ Oven
 
 Instructions
 --------------
-"1. Mix dry ingredients and wet ingredients sparately, combine and knead dough. Spread thin in pie dish. 
+1. Mix dry ingredients and wet ingredients sparately, combine and knead dough. Spread thin in pie dish. 
 
 2. Mix filling ingredients to a homogeneous combination. 
 

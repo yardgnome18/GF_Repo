@@ -11,6 +11,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    blueberry_qs
    Cowboy_Caviar
+   fall_veg_hash
    layered_hd
    RRPS_Quinoa_Salsa
    roasted_yam_dip
@@ -27,6 +28,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Beef_Broc
    Burrito_Bowl
    Cashew_cluck
+   Cluck_FR
    Crockpot_Beef_Stew
    Hangover_Hash
    Mid_Risotto
@@ -58,6 +60,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Chopped_Thai_Cluck_Salad
    FRB
    Thai_Basil_Beef
+   thai_salad_peanutlime
    PFR
    Power_Salad
 
