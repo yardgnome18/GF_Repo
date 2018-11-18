@@ -17,7 +17,6 @@ Ingredients
 
     2-3 cups powdered sugar, sifted
 
-
 Directions
 -----------
 

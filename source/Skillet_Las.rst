@@ -8,7 +8,6 @@ Ingredients
 
 ::
 
-
     1   T olive oil
 
     1   C diced onions

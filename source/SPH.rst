@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     2 T oil
 
     1 lb ground sausage
@@ -25,7 +24,6 @@ Ingredients
     salt and pepper
 
     fried eggs
-
 
 Instructions
 -------------

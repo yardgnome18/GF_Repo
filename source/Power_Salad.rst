@@ -1,11 +1,15 @@
 -------------------------------------------------------------
-Power Salad -- Chopped Thai Salad with Sesame Garlic Dressing
+Power Salad
 -------------------------------------------------------------
+
+Chopped Thai Salad with Sesame Garlic Dressing
+----------------------------------------------
 
 Ingredients
 -----------
 
-**For the dressing:**
+For the Dressing
+****************
 
 ::
 
@@ -13,24 +17,24 @@ Ingredients
 
     3 cloves garlic, peeled
 
-    3 tablespoons low sodium soy sauce
+    3 T low sodium soy sauce
 
-    2 tablespoons water
+    2 T water
 
-    2 tablespoons white distilled vinegar
+    2 T white distilled vinegar
 
-    2 tablespoons honey
+    2 T honey
 
-    1 tablespoon sesame oil
+    1 T sesame oil
 
-    1 tablespoon lemongrass paste
+    1 T lemongrass paste
 
     a squeeze of lime juice
 
-**For the salad:**
+For the Salad
+***************
 
 ::
-
 
     16 ounces frozen shelled edamame
 
@@ -58,11 +62,3 @@ Instructions
 4. Place the cooked edamame in the food processor and pulse 5 times to get a minced texture. Transfer to a bowl and repeat the same process for the cashews.
 
 5. Toss the kale, carrots, peppers, cilantro, green onions, edamame, and cashews together until well combined. Drizzle with the dressing, toss gently a few times, and serve immediately.
-
-Notes
------
-
-The salad will stay fresh longer if you store the dressing separately from the salad ingredients, tossing them together just before serving.
-
-Agave nectar or sugar would work in place of the honey for vegans.
-
