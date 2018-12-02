@@ -6,13 +6,21 @@ Ingredients
 -----------
 ::
 
+
 	12 oz Ground Sausage
+
 	6-8 Eggs
+
 	1/2 C Milk
+
 	1.5 t Herbs de Provance
+
 	Salt + Pepper
+
 	1 lb Shredded Potato
+
 	1 C Shredded Gruyere
+
 	2 C Shredded Kale
 
 

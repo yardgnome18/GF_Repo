@@ -5,10 +5,10 @@ Thai Noodle Salad w/Peanut Lime Dressing
 Ingredients
 --------------
 
-**Dressing**
+Dressing
+**********
 
 ::
-
 
     1/2 cup canola oil
 
@@ -30,7 +30,8 @@ Ingredients
 
     1/4 cup peanut butter
 
-**Salad**
+Salad
+*******
 
 ::
 

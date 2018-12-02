@@ -5,10 +5,10 @@ Thai Basil Beef with Coconut Rice
 Ingredients
 ------------
 
-**Base**
+Rice Base
+**********
 
 ::
-
 
     1 cup jasmine rice
 
@@ -22,7 +22,8 @@ Ingredients
 
     Handful of fresh basil leaves
 
-**Sauce**
+Sauce
+*********
 
 ::
 
@@ -41,7 +42,6 @@ Ingredients
     2 cloves garlic, chopped
 
     pinch of red pepper flakes
-
 
 Instructions
 --------------

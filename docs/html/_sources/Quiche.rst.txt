@@ -6,7 +6,8 @@ Quiche
 Ingredients
 -----------
 
-**Crust**
+Crust
+******
 
 ::
 
@@ -22,7 +23,8 @@ Ingredients
 
     1/8+ C milk to consistency
 
-**Filling**
+Filling
+********
 
 ::
 
@@ -36,7 +38,8 @@ Ingredients
 
     1 C grated cheddar
 
-**Egg Part**
+Egg Part
+**********
 
 ::
 
@@ -44,8 +47,7 @@ Ingredients
 
     1/2 C milk
 
-    3-4 eggs"
-
+    3-4 eggs
 
 Oven
 -----

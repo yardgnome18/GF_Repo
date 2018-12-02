@@ -44,7 +44,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
 .. toctree::
    :maxdepth: 1
-   :caption: Cassarole:
+   :caption: Casserole:
 
    Bacon_Leek_Quiche
    Chicken_EC
