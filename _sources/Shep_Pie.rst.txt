@@ -8,7 +8,6 @@ Ingredients
 
 ::
 
-
     2 lbs Yukon gold potatoes, peeled and cut into chunks
 
     4 T unsalted butter
@@ -35,11 +34,9 @@ Ingredients
 
     1/4 C chopped fresh parsley
 
-
 Oven
 ----
 375 for 35 to 40 mins
-
 
 Preparation
 -----------

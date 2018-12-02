@@ -3,8 +3,9 @@ South American Quinoa Salad
 -----------------------------
 
 Ingredients
-::
+--------------
 
+::
 
     2 C quinoa
 
