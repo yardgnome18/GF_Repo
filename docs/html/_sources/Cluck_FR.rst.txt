@@ -6,7 +6,7 @@ Ingredients
 -----------
 
 ::
-	
+
 	2 C cooked brown rice
 
 	3/4 lb chicken breasts
@@ -34,4 +34,4 @@ Cook eggs first and set aside.
 
 Heat sesame oil and cook add chicken pieces, season lightly with salt and pepper. Add vegetable mix, garlic and green onions and continue cooking
 
-Throw in eggs and rice, reduce heat and season with soy sauce and siracha to taste. 
+Throw in eggs and rice, reduce heat and season with soy sauce and siracha to taste.

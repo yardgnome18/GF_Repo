@@ -11,29 +11,48 @@ Ingredients
 ::
 
     2 C Alicia's GF Flour Blend
+
     1 t cinnamon
+
     1/2 t ginger
+
     1/4 t cloves
+
     1/4 t cardamom
+
     2 eggs
+
     3/4 C applesauce
+
     1/3 C canola oil
+
     3/4 C milk
+
     1 t vanilla
+
     1/3 C brown sugar
+
     3/4 C chopped apples
+
     1/2 C chopped walnuts or nuts
 
-**ALICIA'S FLOUR BLEND**
+ALICIA'S FLOUR BLEND
+*********************
 
 ::
 
     3/4 C sorghum flour
+
     3/4 C brown rice flour
+
     1/2 C tapioca flour
+
     1/2 t baking soda
+
     1 t baking powder
+
     1 t xantham gum
+
     1/2 t salt
 
 Oven

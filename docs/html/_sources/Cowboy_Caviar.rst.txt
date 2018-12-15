@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     1 can black eyed peas, rinsed and drained
 
     1 can yellow corn

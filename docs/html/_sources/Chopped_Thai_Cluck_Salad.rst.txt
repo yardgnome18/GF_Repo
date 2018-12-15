@@ -5,10 +5,10 @@ Chopped Thai Chicken Salad
 Ingredients
 -----------
 
-**Salad**
+Salad
+*******
 
 ::
-
 
     2 boneless skinless chicken breasts
 
@@ -24,10 +24,10 @@ Ingredients
 
     1/2 cup chopped peanuts
 
-**Dressing**
+Dressing
+**********
 
 ::
-
 
     2 cloves garlic
 
@@ -52,7 +52,8 @@ Ingredients
 Instructions
 ------------
 
-**Salad**
+Salad
+*******
 
 Poach chicken breasts for 15 to 20 minutes and shred with two forks.
 
@@ -60,21 +61,23 @@ Slice cabbage into thin matchsticks
 
 Peel and grate the carrots and cucumber
 
-Dice cilantro, green onions. 
+Dice cilantro, green onions.
 
 Toss the chicken and vegetables in a large bowl and keep chilled.
 
 
-**Dressing**
+Dressing
+**********
 
-Mince the garlic and chili peppers. 
+Mince the garlic and chili peppers.
 
-Place garlic and peppers in a small mixing bowl with the soy sauce, vinegar, sugar, lime juice, oil, and fish sauce. Whisk until smooth. 
+Place garlic and peppers in a small mixing bowl with the soy sauce, vinegar, sugar, lime juice, oil, and fish sauce. Whisk until smooth.
 
 Add the peanut butter and water and whisk again until smooth and creamy.
 
-**Combine**
+Combine
+*********
 
-Toss the salad with the dressing. Add the crushed peanuts. 
+Toss the salad with the dressing. Add the crushed peanuts.
 
 Preferred to keep the leftover salad and dressing separate until ready to serve.
