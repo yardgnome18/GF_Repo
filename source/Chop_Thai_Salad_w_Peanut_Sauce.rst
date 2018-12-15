@@ -38,7 +38,13 @@ Ingredients
 Instructions
 -------------
 
-Place all dressing ingredients in a blender (coconut milk through salt) and blend on high speed until very smooth. Place dressing in a saucepan, bring to a boil then simmer until reduced and thickened, about 10 minutes. Set aside to cool.
+Place all dressing ingredients in a blender (coconut milk through salt) and blend on high speed until very smooth. 
+
+
+Place dressing in a saucepan, bring to a boil then simmer until reduced and thickened, about 10 minutes. 
+
+
+Set aside to cool.
 
 
 Place remaining ingredients into a large bowl, toss with dressing and serve immediately.
