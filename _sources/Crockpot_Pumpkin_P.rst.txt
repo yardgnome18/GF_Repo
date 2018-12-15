@@ -27,6 +27,6 @@ Ingredients
 Preparation
 ------------
 
-Mix all ingredients in a well-greased crock pot.  
+Mix all ingredients in a well-greased crock pot.
 
 Cook 3 to 6 hours on low, or until 160 degrees.

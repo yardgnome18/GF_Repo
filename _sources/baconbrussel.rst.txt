@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     1 lemon
 
     1 orange
@@ -43,5 +42,5 @@ Instructions
 
 Notes
 -----
-Entree 8-10 servings. 
+Entree 8-10 servings.
 Side more like 14 servings.

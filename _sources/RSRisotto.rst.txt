@@ -52,7 +52,8 @@ Instructions
 5. Add the thyme, salt, and pepper to taste. Remove from heat, stir in the remaining T of butter and garnish with parmesan.
 
 
-**Roasting the Squash**
+Roasting the Squash
+********************
 
 Split the squash in half, brush with olive oil and roast at *350 F for 45 minutes* to 1 hour until it's tender. Remove from the oven and allow to cool. Use a spoon to scoop out of the shell.
 

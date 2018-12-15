@@ -15,7 +15,7 @@ Ingredients
 
     1/2 C diced onion
 
-    1 T olive oil"
+    1 T olive oil
 
 Instructions
 -------------

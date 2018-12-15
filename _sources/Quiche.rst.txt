@@ -55,11 +55,14 @@ Oven
 
 Instructions
 --------------
-1. Mix dry ingredients and wet ingredients sparately, combine and knead dough. Spread thin in pie dish. 
+1. Mix dry ingredients and wet ingredients sparately, combine and knead dough. Spread thin in pie dish.
 
-2. Mix filling ingredients to a homogeneous combination. 
 
-3. Beat liquid ingredients and pour over filling in crust. 
+2. Mix filling ingredients and fill prepared pan with crust in place.
+
+
+3. Beat liquid ingredients and pour over filling in crust, top with shredded cheese.
+
 
 4. Bake at 400 F for 35 to 40 min.
 
