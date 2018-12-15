@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     Softened butter for the pie plate, about 2 t.
 
     1/2 pound good bacon, diced

@@ -5,7 +5,8 @@ Fresh Roll Bowls
 Ingredients
 ------------
 
-**Bowl**
+Bowl
+******
 
 ::
 
@@ -25,7 +26,8 @@ Ingredients
 
     3/4 C Cucumber, grated
 
-**Sauce**
+Sauce
+*******
 
 ::
 

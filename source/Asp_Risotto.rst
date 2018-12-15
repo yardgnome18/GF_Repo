@@ -7,7 +7,8 @@ Asparagus Risotto
 Ingredients
 -------------
 
-**Chicken and Seasoning**
+Chicken and Seasoning
+**********************
 
 ::
 
@@ -19,10 +20,11 @@ Ingredients
 
     Salt and fresh black pepper to taste
 
-**Risotto**
+Risotto
+********
 
 ::
-    
+
     6 T olive oil
 
     1/2 C diced yellow onion

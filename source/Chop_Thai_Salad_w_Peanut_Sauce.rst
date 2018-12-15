@@ -7,7 +7,6 @@ Ingredients
 
 ::
 
-
     1 can low-fat coconut milk
 
     1/4 cup creamy peanut butter

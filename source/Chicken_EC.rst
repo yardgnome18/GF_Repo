@@ -8,7 +8,6 @@ Ingredients
 
 ::
 
-
     1 t oil
 
     1 onion, chopped
