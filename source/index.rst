@@ -5,10 +5,6 @@
 GLUTEN FREE RECIPE REPOSITORY
 ========================================
 
-At some point you get tired of receipe pages telling you about how the author just got back from walking their dog or a weekend in San Diego forcing you to  scroll through ten pages of ads, pictures of the food, and random thoughts.
-
-Just print the receipes please, the diced onions are burning.
-
 .. toctree::
    :maxdepth: 1
    :caption: Appetizers:
