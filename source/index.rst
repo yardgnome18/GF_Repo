@@ -72,6 +72,8 @@ GLUTEN FREE RECIPE REPOSITORY
    Apple_Cake
    Double_ASM
    Candied_Pecans
+   chocolatechip_cookies
+   carrotcake
    Crockpot_Pumpkin_P
    Peach_Crisp
    Pumpkin_Bread
