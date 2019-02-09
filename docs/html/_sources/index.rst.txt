@@ -32,6 +32,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Crockpot_Beef_Stew
    Hangover_Hash
    Mid_Risotto
+   Minestrone
    Mexican_Pepper_Cassarole
    PCC_Chili
    Pine_Nut_Pasta
@@ -71,6 +72,8 @@ GLUTEN FREE RECIPE REPOSITORY
    Apple_Cake
    Double_ASM
    Candied_Pecans
+   chocolatechip_cookies
+   carrotcake
    Crockpot_Pumpkin_P
    Peach_Crisp
    Pumpkin_Bread
