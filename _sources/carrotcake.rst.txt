@@ -34,7 +34,7 @@ Ingredients
 
     1 C chocolate chips
 
-Sourghum Flour Blend
+Sorghum Flour Blend
 *********************
 
 ::
