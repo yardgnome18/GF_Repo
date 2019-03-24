@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Gluten Free Recipe Repository'
-copyright = '2018, EB'
+copyright = '2019, Starfish Productions'
 author = 'EB'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '0.01A'
+release = '0.01B'
 
 
 # -- General configuration ---------------------------------------------------
@@ -113,7 +113,7 @@ htmlhelp_basename = 'GF_Repo_Docs'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'papersize': 'ansiapaper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
