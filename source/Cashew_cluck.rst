@@ -53,3 +53,5 @@ Instructions
 4. Pour sauce over chicken vegetable mix and cook stirring frequently until sauce thickens for 5 to 7 minutes.
 
 5. Turn off heat and add rice, stir until fully combined and serve.
+
+6. Eat!
