@@ -36,6 +36,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Mexican_Pepper_Cassarole
    PCC_Chili
    Pine_Nut_Pasta
+   Quinoa_stuffing
    Potato_Leek_Soup
    RSRisotto
    Skillet_Las
