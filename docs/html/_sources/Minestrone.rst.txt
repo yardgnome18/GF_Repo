@@ -38,13 +38,10 @@ Ingredients
 Instructions
 -------------
 
-Heat the oil in a large pot, add sausage and onions and cook until sausage is browned and onions are soft. 
+Heat the oil in a large pot, add sausage and onions and cook until sausage is browned and onions are soft.
 
-
-Add all other ingredients  :guilabel:`except` the GF pasta, bring to a boil then reduce heat and simmer for 30 minutes.
-
+Add all other ingredients :guilabel:`except` the GF pasta, bring to a boil then reduce heat and simmer for 30 minutes.
 
 Add pasta and simmer until it's done.
-
 
 Dust with parmesan to serve.

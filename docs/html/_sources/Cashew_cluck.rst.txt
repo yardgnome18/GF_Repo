@@ -31,14 +31,13 @@ Sauce
 
 ::
 
-
     3 T gluten-free soy sauce
 
     1 T cornstarch
 
-    1 1/2 garlic powder
+    1 1/2 tsp garlic powder
 
-    1 1/2 ground ginger
+    1 1/2 tsp ground ginger
 
     1 salt
 
