@@ -45,7 +45,7 @@ Ingredients
 
 Oven
 -----
-400 F for 40 minutes, stirring at halfway
+400 F for 40 minutes, stirring halfway
 
 Instructions
 -------------
