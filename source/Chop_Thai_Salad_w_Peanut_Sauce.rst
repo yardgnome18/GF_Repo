@@ -1,5 +1,5 @@
 -----------------------------------------------
-Chopped Thai Salad with Coconut Curry Dressing
+Chopped Thai Salad with Peanut Sauce
 -----------------------------------------------
 
 Ingredients
