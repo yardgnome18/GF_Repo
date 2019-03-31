@@ -34,6 +34,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Mid_Risotto
    Minestrone
    Mexican_Pepper_Cassarole
+   Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
    Quinoa_stuffing
