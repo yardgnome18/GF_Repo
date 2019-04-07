@@ -51,6 +51,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Bacon_Leek_Quiche
    Chicken_EC
+   Polenta_L
    Potato_Pie
    Quiche
    Shep_Pie
