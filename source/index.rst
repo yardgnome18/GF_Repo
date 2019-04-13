@@ -50,6 +50,7 @@ GLUTEN FREE RECIPE REPOSITORY
    :caption: Casserole:
 
    Bacon_Leek_Quiche
+   car_sp_gratin
    Chicken_EC
    Polenta_L
    Potato_Pie
