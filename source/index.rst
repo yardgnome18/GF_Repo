@@ -16,13 +16,13 @@ GLUTEN FREE RECIPE REPOSITORY
    RRPS_Quinoa_Salsa
    roasted_yam_dip
    Potato_Sal
+   Sweet_PS
    wrv_salad
 
 .. toctree::
    :maxdepth: 1
    :caption: Entrees:
 
-   Asp_Risotto
    baconbrussel
    BBQ_Cluck_Salad
    Beef_Broc
@@ -31,7 +31,6 @@ GLUTEN FREE RECIPE REPOSITORY
    Cluck_FR
    Crockpot_Beef_Stew
    Hangover_Hash
-   Mid_Risotto
    Minestrone
    Mexican_Pepper_Cassarole
    Moroccan_Vegetables
@@ -39,11 +38,9 @@ GLUTEN FREE RECIPE REPOSITORY
    Pine_Nut_Pasta
    Quinoa_stuffing
    Potato_Leek_Soup
-   RSRisotto
    Skillet_Las
    SA_Quinoa_Salad
    SPH
-   Sweet_PS
 
 .. toctree::
    :maxdepth: 1
@@ -56,6 +53,14 @@ GLUTEN FREE RECIPE REPOSITORY
    Potato_Pie
    Quiche
    Shep_Pie
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Risottos:
+   Asp_Risotto
+   Mid_Risotto
+   RSRisotto
+   sp_feta_risotto
 
 .. toctree::
    :maxdepth: 1
