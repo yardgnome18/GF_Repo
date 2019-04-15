@@ -79,6 +79,7 @@ GLUTEN FREE RECIPE REPOSITORY
    chocolatechip_cookies
    carrotcake
    Crockpot_Pumpkin_P
+   Muffin
    Peach_Crisp
    Pumpkin_Bread
    Salted_Caramel_Frosting
