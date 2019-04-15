@@ -62,8 +62,7 @@ Variations
 
 :apple cranberry: 1 ½ cups peeled, cored, and chopped Granny Smith apples, ½ cup fresh or frozen chopped cranberries (you can chop cranberries in a mini processor), and 1 additional tablespoon of sugar.
 
-:mango banana chocolate chip: 1/ 2 cup peeled, pitted, and chopped ripe mangos,
-1 peeled and chopped ripe banana, and 1/2 cup semi-sweet chocolate chips.
+:mango banana chocolate chip: 1/ 2 cup peeled, pitted, and chopped ripe mango, 1 peeled and chopped ripe banana, and 1/2 cup semi-sweet chocolate chips.
 
 :papaya red raspberry: 1 ripe papaya, peeled, seeded, and chopped and 1 cup fresh red raspberries.
 
@@ -90,19 +89,25 @@ Instructions
 ..
 
 3. In a separate large bowl, sift together the flour, baking powder, baking soda, salt, and cinnamon (if using). Mix well.
+..
 
 4. Add the wet ingredients to the dry ingredients and fold together with a rubber spatula without over-mixing.
-
+..
 
 5. Spoon about 1/3 cup of the batter into each muffin
 cup.
+..
 
 6. Sprinkle each muffin with a scant tablespoon of streusel topping if you like.
+..
 
 7. Immediately place the muffins in the oven at 350 F and bake for 30 to 35 minutes, until puffed and golden.
+..
 
 8. After about 20 minutes, rotate the muffin tin in the oven to ensure even baking.
+..
 
 9. Remove the muffins from the oven and place the tins on a rack to cool for about 15 minutes.
+..
 
 10. The hot muffins are quite soft and may fall apart if handled right away. Serve warm or cool completely and store in a sealed container at room temperature.
