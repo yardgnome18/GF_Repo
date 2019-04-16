@@ -5,7 +5,7 @@ Muffin Variety Pack
 Enjoy a muffin with your coffee? So do we.
 
 Dry Ingredients
--------------
+-------------------
 
 ::
 
@@ -82,10 +82,12 @@ Oven
 
 Instructions
 -------------
-1. If you want a topping, mix together a11 of the streusel ingredients and blend with a fork until the butter is pea-sized or smaller. Set aside.
+1. If you want a topping, mix together a11 of the streusel ingredients 
+and blend with a fork until the butter is pea-sized or smaller. Set aside.
 
 
-2. In a mixing bowl, cream together the butter and sugar until smooth. Beat in the egg and then the milk and vanilla; the mixture will look lumpy.
+2. In a mixing bowl, cream together the butter and sugar until smooth. 
+Beat in the egg and then the milk and vanilla; the mixture will look lumpy.
 
 
 3. In a separate large bowl, sift together the flour, baking powder, baking soda, salt, and cinnamon (if using). Mix well.
@@ -94,8 +96,7 @@ Instructions
 4. Add the wet ingredients to the dry ingredients and fold together with a rubber spatula without over-mixing.
 
 
-5. Spoon about 1/3 cup of the batter into each muffin
-cup.
+5. Spoon about 1/3 cup of the batter into each muffin cup.
 
 
 6. Sprinkle each muffin with a scant tablespoon of streusel topping if you like.
