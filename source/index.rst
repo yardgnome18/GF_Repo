@@ -56,7 +56,8 @@ GLUTEN FREE RECIPE REPOSITORY
 
 .. toctree::
    :maxdepth: 1
-   :caption: Risottos:
+   :caption: Risotto:
+
    Asp_Risotto
    Mid_Risotto
    RSRisotto

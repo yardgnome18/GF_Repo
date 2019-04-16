@@ -2,7 +2,7 @@
 Asparagus Risotto
 -------------------
 
-*Served with grilled chicken*
+*Serve with grilled chicken*
 
 Ingredients
 -------------

@@ -8,6 +8,8 @@ Ingredients
 :: 
 
 
+    1 package of Aidell's Hawaiian Sausage
+    
     2 T sesame or peanut oil
 
     2 eggs, beaten
@@ -39,7 +41,7 @@ Instructions
 
 2. Add one tablespoon of oil to the pan and add the pineapple and red pepper. Cook, stirring constantly, until the liquid has evaporated and the pineapple is caramelized on the edges, about 3 to 5 minutes. 
 
-3. Add the green onion and garlic. Cook, while stirring constantly, until fragrant, about 30 seconds or longer. Transfer the contents of the pan to your bowl of eggs.    
+3. Add the green onion and garlic. Cook, while stirring constantly, until fragrant, about 30 seconds or longer. Transfer the contents of the pan to your bowl of eggs. Chop the sausage and brown in a separate skillet, reduce heat to low.
 
 4. Add the remaining two teaspoons of oil to the pan. Pour in the cashew and cook, stirring constantly, until the cashews smell fragrant, about 30 seconds. Add the rice to the pan and stir to combine. Cook, stirring occasionally, until the rice is hot, about 3 minutes.
 
