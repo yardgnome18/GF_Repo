@@ -11,6 +11,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    blueberry_qs
    Cowboy_Caviar
+   egg_salad
    fall_veg_hash
    layered_hd
    RRPS_Quinoa_Salsa
@@ -92,4 +93,5 @@ GLUTEN FREE RECIPE REPOSITORY
    Peach_Crisp
    Pumpkin_Bread
    Salted_Caramel_Frosting
+   strawb_muffin
    spice_cake
