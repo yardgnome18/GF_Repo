@@ -37,6 +37,7 @@ GLUTEN FREE RECIPE REPOSITORY
    PCC_Chili
    Pine_Nut_Pasta
    Quinoa_stuffing
+   roasted_v_quesadilla
    Potato_Leek_Soup
    Skillet_Las
    SA_Quinoa_Salad
@@ -60,6 +61,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Asp_Risotto
    Mid_Risotto
+   milanese_r
    RSRisotto
    sp_feta_risotto
 
@@ -82,8 +84,9 @@ GLUTEN FREE RECIPE REPOSITORY
    Apple_Cake
    Double_ASM
    Candied_Pecans
-   chocolatechip_cookies
    carrotcake
+   chocolatechip_cookies
+   cinnamon_bisc
    Crockpot_Pumpkin_P
    Muffin
    Peach_Crisp
