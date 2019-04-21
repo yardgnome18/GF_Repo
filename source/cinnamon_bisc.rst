@@ -1,6 +1,6 @@
 
 --------------------------
-Quick Cinnamon Biscuts
+Cinnamon Rolls
 --------------------------
 
 Ingredients
