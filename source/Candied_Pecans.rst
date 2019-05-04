@@ -1,5 +1,5 @@
 ---------------
-Sugared Pecans
+Candied Pecans
 ---------------
 
 Ingredients
