@@ -84,6 +84,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Apple_Cake
    Double_ASM
+   bananabar
    Candied_Pecans
    carrotcake
    chocolatechip_cookies
