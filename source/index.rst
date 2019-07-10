@@ -62,7 +62,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Asp_Risotto
    Mid_Risotto
-   milanese_r
+   parmesan_r
    RSRisotto
    sp_feta_risotto
 
