@@ -33,7 +33,6 @@ GLUTEN FREE RECIPE REPOSITORY
    Crockpot_Beef_Stew
    Hangover_Hash
    Minestrone
-   Mexican_Pepper_Cassarole
    Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
@@ -51,6 +50,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Bacon_Leek_Quiche
    car_sp_gratin
    Chicken_EC
+   Mexican_Pepper_Cassarole
    Polenta_L
    Potato_Pie
    Quiche
