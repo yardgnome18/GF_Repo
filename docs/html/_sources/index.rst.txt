@@ -33,7 +33,6 @@ GLUTEN FREE RECIPE REPOSITORY
    Crockpot_Beef_Stew
    Hangover_Hash
    Minestrone
-   Mexican_Pepper_Cassarole
    Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
@@ -43,6 +42,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Skillet_Las
    SA_Quinoa_Salad
    SPH
+   ss_pork
 
 .. toctree::
    :maxdepth: 1
@@ -51,6 +51,8 @@ GLUTEN FREE RECIPE REPOSITORY
    Bacon_Leek_Quiche
    car_sp_gratin
    Chicken_EC
+   Mexican_Pepper_Cassarole
+   pastitsio
    Polenta_L
    Potato_Pie
    Quiche
@@ -62,7 +64,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Asp_Risotto
    Mid_Risotto
-   milanese_r
+   parmesan_r
    RSRisotto
    sp_feta_risotto
 
@@ -91,6 +93,7 @@ GLUTEN FREE RECIPE REPOSITORY
    cinnamon_bisc
    Crockpot_Pumpkin_P
    Muffin
+   oatmeal_cookies
    Peach_Crisp
    Pumpkin_Bread
    Salted_Caramel_Frosting
