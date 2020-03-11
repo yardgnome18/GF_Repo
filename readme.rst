@@ -1,4 +1,6 @@
-## GLUTEN FREE RECIPE REPOSITORY
+===============================
+GLUTEN FREE RECIPE REPOSITORY
+===============================
 
 A collection of gluten free recepies that's always accessible. Built using Sphinx_ and ReadtheDocs_ theme and hosted on Github.
 
