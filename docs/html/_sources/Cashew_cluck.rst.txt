@@ -24,12 +24,13 @@ Chicken Rice Mix
 
     1 C Chopped Cashews
 
-    1 C Chicken Stock
 
 Sauce
 ***********
 
 ::
+
+    1 C Chicken Stock
 
     3 T gluten-free soy sauce
 

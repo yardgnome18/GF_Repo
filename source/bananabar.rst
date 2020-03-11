@@ -37,7 +37,7 @@ Frosting
 
     zest of 1 orange
 
-    2 tablespoons fresh orange juice
+    1 tablespoon fresh orange juice
 
     1 teaspoon canola oil
 
@@ -66,4 +66,5 @@ Combine wet and dry.
 
 Bake 25 to 30 minutes until center is cooked.
 
-Make frosting, combine incredients and whip until smooth, be careful not to throw confectioners sugar everywhere. Spread over cooled bars.
+*Make Frosting*
+Combine ingredients, whip until smooth. Spread over cooled bars.
