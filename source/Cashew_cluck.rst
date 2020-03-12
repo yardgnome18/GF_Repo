@@ -40,7 +40,6 @@ Sauce
 
     1 1/2 tsp ground ginger
 
-    1 salt
 
 Instructions
 --------------
