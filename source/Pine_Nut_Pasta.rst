@@ -2,6 +2,8 @@
 Pine Nut Pasta
 ----------------------------------
 
+:guilabel:`Power Recipe`
+
 Ingredients
 -----------
 

@@ -2,8 +2,8 @@
 Oatmeal Cookies
 ------------------------
 
-Ingredients
------------
+Wet Ingredients
+*****************
 
 ::
 
@@ -20,7 +20,12 @@ Ingredients
 
 	2 Teaspoons pure vanilla extract
 
-	1 Cup Carol's Sorghum Blend (page x)
+Dry Ingredients
+*****************
+
+::
+
+	1 Cup Sorghum Blend
 
 	1 1/2 Teaspoons xanthan gum
 
@@ -52,7 +57,7 @@ Combine dry ingredients in a batter bowl and whisk together until consistent and
 
 Cream butter and sugar until smooth, then add eggs, vanilla, and molasses.
 
-Add dry ingredients to wet on low, with rasins, chocolate chips, and crushed pecans, fold together by hand with a paddle.
+Add dry ingredients to wet with rasins, chocolate chips, and crushed pecans, fold together by hand with a paddle.
 
 Drop teaspon sized scoops onto bakings sheets prepared with parchment paper.
 

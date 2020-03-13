@@ -30,5 +30,7 @@ Ingredients
 
 Instructions
 --------------
-Combine! Eat!
+Combine and stir together, add avocados last.
+
+Eat!
 

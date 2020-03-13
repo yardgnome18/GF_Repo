@@ -6,7 +6,7 @@ Ingredients
 -----------
 
 ::
-    
+
     1 C brown rice flour
 
     1 C white rice flour

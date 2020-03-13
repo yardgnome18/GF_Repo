@@ -48,7 +48,6 @@ GLUTEN FREE RECIPE REPOSITORY
    :maxdepth: 1
    :caption: Casserole:
 
-   Bacon_Leek_Quiche
    car_sp_gratin
    Chicken_EC
    Mexican_Pepper_Cassarole
@@ -99,3 +98,5 @@ GLUTEN FREE RECIPE REPOSITORY
    Salted_Caramel_Frosting
    strawb_muffin
    spice_cake
+
+

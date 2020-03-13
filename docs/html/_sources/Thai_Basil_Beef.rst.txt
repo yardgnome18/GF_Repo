@@ -46,10 +46,10 @@ Sauce
 Instructions
 --------------
 
-1. Combine rice, coconut milk, and 1 cup of water in rice cooker.
+Combine rice, coconut milk, and 1 cup of water in rice cooker.
 
-2. In a small bowl, combine oyster sauce, fish sauce, tamari, 1 T water, and sugar.  Set aside.
+In a small bowl, combine oyster sauce, fish sauce, tamari, 1 T water, and sugar.  Set aside.
 
-3. Heat 1 t sesame oil in a skillet over medium-high heat; add garlic and chilies, stir-frying for 15 seconds until fragrant.  Add beef and cook until no longer pink, 2-3 minutes. Remove beef to a plate.
+Heat 1 t sesame oil in a skillet over medium-high heat; add garlic and chilies, stir-frying for 15 seconds until fragrant.  Add beef and cook until no longer pink, 2-3 minutes. Remove beef to a plate.
 
-4. Add 1 t sesame oil and cook bell peppers until just soft, 2-3 minutes. Add beef and sauce and heat through. Toss in basil leaves and remove from heat; serve over coconut rice.
+Add 1 t sesame oil and cook bell peppers until just soft, 2-3 minutes. Add beef and sauce and heat through. Toss in basil leaves and remove from heat; serve over coconut rice.

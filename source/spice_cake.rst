@@ -38,15 +38,15 @@ Oven
 Instructions
 -------------
 
-1. Whisk together dry ingredients.
+Whisk together dry ingredients.
 
-2. Whisk together wet ingredients.
+Whisk together wet ingredients.
 
-3. Combine wet and dry ingredients to create the dough.
+Combine wet and dry ingredients to create the dough.
 
-4. Grease a bundt pan, then pour in about 1/3 of the dough, layer in some of the spice mix, and repeat a second time.
+Grease a bundt pan, then pour in about 1/3 of the dough, layer in some of the spice mix, and repeat a second time.
 
-5. Pour in the last of the dough over the second layer of spice mix -- make sure all the spice mix is covered since the sugar will burn easily if not covered.
+Pour in the last of the dough over the second layer of spice mix -- make sure all the spice mix is covered since the sugar will burn easily if not covered.
 
-6. Bake for 40 to 50 minutes until the center is firm and test toothpick comes out clean.
+Bake for 40 to 50 minutes until the center is firm and test toothpick comes out clean.
 

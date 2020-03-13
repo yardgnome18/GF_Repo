@@ -26,8 +26,8 @@ Ingredients
 Instructions
 ------------
 
-1. Boil and mash potatoes. Mix everything together until smooth. 
+Boil and mash potatoes. Mix everything together until smooth.
 
-2. Place in greased dish, top with marshmellows. 
+Place in greased dish, top with marshmellows.
 
-3. Bake at 350 F for 30 minutes uncovered until marshmellows are show golden browning on edges.
+Bake at 350 F for 30 minutes uncovered until marshmellows are show golden browning on edges.
