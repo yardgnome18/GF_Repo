@@ -2,7 +2,7 @@
 Chopped Thai Salad with Peanut Sauce
 -----------------------------------------------
 
-Ingredients
+Dressing
 -----------
 
 ::
@@ -21,6 +21,12 @@ Ingredients
 
     1 teaspoon kosher salt (or to taste)
 
+
+Salad
+-----------
+
+::
+
     3 cups chopped kale
 
     2 cups chopped napa cabbage
@@ -38,13 +44,12 @@ Ingredients
 Instructions
 -------------
 
-Place all dressing ingredients in a blender (coconut milk through salt) and blend on high speed until very smooth. 
+Shred kale, cabbage, carrots with food processor. Chop peanuts and cilantro with processor. Matchstick pepper and mango. Combine in a large bowl.
 
+Place all dressing ingredients in food processor (coconut milk through salt) and blend on high speed until very smooth.
 
-Place dressing in a saucepan, bring to a boil then simmer until reduced and thickened, about 10 minutes. 
+Place dressing in a saucepan, bring to a boil then simmer until reduced and thickened, about 10 minutes.
 
+Set dressing aside to cool.
 
-Set aside to cool.
-
-
-Place remaining ingredients into a large bowl, toss with dressing and serve immediately.
+Toss salad with dressing and serve immediately.

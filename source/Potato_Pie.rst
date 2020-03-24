@@ -2,6 +2,8 @@
 Potato Pie
 -----------------
 
+:guilabel:`Power Recipe`
+
 Ingredients
 -----------
 ::

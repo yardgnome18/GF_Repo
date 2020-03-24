@@ -36,9 +36,9 @@ GLUTEN FREE RECIPE REPOSITORY
    Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
+   Potato_Leek_Soup
    Quinoa_stuffing
    roasted_v_quesadilla
-   Potato_Leek_Soup
    Skillet_Las
    SA_Quinoa_Salad
    SPH

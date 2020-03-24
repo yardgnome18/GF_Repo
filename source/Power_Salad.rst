@@ -1,9 +1,8 @@
 -------------------------------------------------------------
-Power Salad
+Power Salad (Chopped Thai)
 -------------------------------------------------------------
 
-Chopped Thai Salad with Sesame Garlic Dressing
-----------------------------------------------
+AKA Chopped Thai Salad with Sesame Garlic Dressing
 
 Ingredients
 -----------
