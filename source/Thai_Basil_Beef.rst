@@ -1,5 +1,5 @@
 ---------------------------------
-Thai Basil Beef with Coconut Rice
+Basil Beef with Coconut Rice
 ---------------------------------
 
 Ingredients

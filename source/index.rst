@@ -31,6 +31,18 @@ GLUTEN FREE RECIPE REPOSITORY
 
 .. toctree::
    :maxdepth: 1
+   :caption: Thai Inspired:
+
+   Thai_Basil_Beef
+   Chopped_Thai_Cluck_Salad
+   FRB
+   Chop_Thai_Salad_w_Peanut_Sauce
+   thai_salad_peanutlime
+   PFR
+   Power_Salad
+
+.. toctree::
+   :maxdepth: 1
    :caption: Casserole:
 
    car_sp_gratin
@@ -51,18 +63,6 @@ GLUTEN FREE RECIPE REPOSITORY
    parmesan_r
    RSRisotto
    sp_feta_risotto
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Thai Inspired:
-
-   Chop_Thai_Salad_w_Peanut_Sauce
-   Chopped_Thai_Cluck_Salad
-   FRB
-   Thai_Basil_Beef
-   thai_salad_peanutlime
-   PFR
-   Power_Salad
 
 .. toctree::
    :maxdepth: 1

@@ -1,5 +1,5 @@
 -------------------------------------------------------------
-Power Salad (Chopped Thai Edamame)
+Power Salad with Edamame
 -------------------------------------------------------------
 
 AKA Chopped Thai Salad with Sesame Garlic Dressing
