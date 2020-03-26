@@ -1,6 +1,8 @@
 --------------------------
-Chopped Thai Chicken Salad
+Chicken Cucumber Salad
 --------------------------
+
+Fresh and light for a summer day.
 
 Ingredients
 -----------

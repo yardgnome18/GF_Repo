@@ -1,5 +1,5 @@
 -----------------------------------------------
-Chopped Thai Salad with Peanut Sauce
+Mango Salad with Peanut Sauce
 -----------------------------------------------
 
 Dressing
@@ -26,6 +26,8 @@ Salad
 -----------
 
 ::
+
+	1 chicken breast poached and shredded (optional)
 
     3 cups chopped kale
 
