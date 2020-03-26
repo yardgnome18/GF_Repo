@@ -24,9 +24,9 @@ copyright = '2019, Starfish Productions'
 author = 'EB'
 
 # The short X.Y version
-version = '1.0'
+version = 'Version 1.1'
 # The full version, including alpha/beta/rc tags
-release = '0.1A'
+release = 'beta'
 
 
 # -- General configuration ---------------------------------------------------

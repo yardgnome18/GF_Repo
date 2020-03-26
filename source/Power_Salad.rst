@@ -1,5 +1,5 @@
 -------------------------------------------------------------
-Power Salad (Chopped Thai)
+Power Salad (Chopped Thai Edamame)
 -------------------------------------------------------------
 
 AKA Chopped Thai Salad with Sesame Garlic Dressing
@@ -26,7 +26,7 @@ For the Dressing
 
     1 T sesame oil
 
-    1 T lemongrass paste
+    1 T lemon-grass paste
 
     a squeeze of lime juice
 
@@ -52,12 +52,12 @@ For the Salad
 Instructions
 ------------
 
-1. Puree all the dressing ingredients in a food processor until smooth. Taste and adjust to fit your preferences. Transfer to a dressing jar and rinse the food processor out for use later.
+Puree all the dressing ingredients in a food processor until smooth. Taste and adjust to fit your preferences. Transfer to a dressing jar and rinse the food processor out for use later.
 
-2. Cook the edamame by boiling it for 3-5 minutes in a pot of boiling water. Drain and allow it to cool.
+Cook the edamame by boiling it for 3-5 minutes in a pot of boiling water. Drain and allow it to cool.
 
-3. Slice up the kale, carrots, peppers, cilantro leaves, and green onions into thin strips or shreds.
+Slice up the kale, carrots, peppers, cilantro leaves, and green onions into thin strips or shreds.
 
-4. Place the cooked edamame in the food processor and pulse 5 times to get a minced texture. Transfer to a bowl and repeat the same process for the cashews.
+Place the cooked edamame in the food processor and pulse 5 times to get a minced texture. Transfer to a bowl and repeat the same process for the cashews.
 
-5. Toss the kale, carrots, peppers, cilantro, green onions, edamame, and cashews together until well combined. Drizzle with the dressing, toss gently a few times, and serve immediately.
+Toss the kale, carrots, peppers, cilantro, green onions, edamame, and cashews together until well combined. Drizzle with the dressing, toss gently a few times, and serve immediately.

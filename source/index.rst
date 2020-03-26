@@ -7,21 +7,6 @@ GLUTEN FREE RECIPE REPOSITORY
 
 .. toctree::
    :maxdepth: 1
-   :caption: Appetizers:
-
-   blueberry_qs
-   Cowboy_Caviar
-   egg_salad
-   fall_veg_hash
-   layered_hd
-   RRPS_Quinoa_Salsa
-   roasted_yam_dip
-   Potato_Sal
-   Sweet_PS
-   wrv_salad
-
-.. toctree::
-   :maxdepth: 1
    :caption: Entrees:
 
    baconbrussel
@@ -99,4 +84,18 @@ GLUTEN FREE RECIPE REPOSITORY
    strawb_muffin
    spice_cake
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Appetizers:
+
+   blueberry_qs
+   Cowboy_Caviar
+   egg_salad
+   fall_veg_hash
+   layered_hd
+   RRPS_Quinoa_Salsa
+   roasted_yam_dip
+   Potato_Sal
+   Sweet_PS
+   wrv_salad
 
