@@ -27,7 +27,6 @@ Salad
 
 ::
 
-	1 chicken breast poached and shredded (optional)
 
     3 cups chopped kale
 
