@@ -31,13 +31,13 @@ Oven
 
 Instructions
 -------------
-1. Combine sugar, oil and eggs, and beat well. 
+Combine sugar, oil and eggs, and beat well.
 
-2. Add peeled diced apple chunks, mix well (probably by hand). 
+Add peeled diced apple chunks, mix well (probably by hand).
 
-3. Mix dry ingredients together and add slowly to wet mix, batter is thick.
+Mix dry ingredients together and add slowly to wet mix, batter is thick.
 
-4. Move oven rack down from top element and pour batter into bundt pan.
+Move oven rack down from top element and pour batter into bundt pan.
 
-5. Cook for 55 to 60 min at 350 degrees.
+Cook for 55 to 60 min at 350 degrees.
 

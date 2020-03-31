@@ -2,6 +2,9 @@
 Sweet Potato Hash
 ------------------
 
+:guilabel:`Power Recipe`
+*Fast, flexible, and great for both breakfast and dinner.*
+
 Ingredients
 ------------
 
@@ -28,12 +31,12 @@ Ingredients
 Instructions
 -------------
 
-1. Heat 1 T oil in cast iron skillet. Add sausage; crumble and cook until no longer pink.
+Heat 1 T oil in cast iron skillet. Add sausage; crumble and cook until no longer pink.
 
-2. Add onion, garlic, thyme, cook until onion is soft. Remove mixture from pan.
+Add onion, garlic, thyme, cook until onion is soft. Remove mixture from pan.
 
-3. Heat remaining oil in skillet; add yams.  Cook until golden and tender, about 20 min.
+Heat remaining oil in skillet; add yams.  Cook until golden and tender, about 20 min.
 
-4. Return sausage mixture to skillet, stir in kale. Cook until tender. Season with salt and pepper.
+Return sausage mixture to skillet, stir in kale. Cook until tender. Season with salt and pepper.
 
-5. Top with fried egg(s).
+Top with fried egg(s).

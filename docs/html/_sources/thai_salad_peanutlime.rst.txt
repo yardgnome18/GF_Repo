@@ -1,5 +1,5 @@
 -----------------------------------------
-Thai Noodle Salad w/Peanut Lime Dressing
+Noodle Salad w/Peanut Lime Dressing
 -----------------------------------------
 
 Ingredients

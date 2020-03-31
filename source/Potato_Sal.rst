@@ -1,6 +1,6 @@
----------------------
-Awesome Potato Salad
----------------------
+-----------------------
+Potato Salad (Awesome)
+-----------------------
 
 Ingredients
 ------------
@@ -31,8 +31,8 @@ Ingredients
 Instructions
 -------------
 
-1. Cube and cook the potatoes, cool.
+Cube and cook the potatoes, cool.
 
-2. Whisk together mayo, mustard, relish, salt and pepper. 
+Whisk together mayo, mustard, relish, salt and pepper.
 
-3. Toss potatoes with parsley, onion, celery, olives, and dressing.
+Toss potatoes with parsley, onion, celery, olives, and dressing.

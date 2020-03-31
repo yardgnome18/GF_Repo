@@ -2,6 +2,8 @@
 Fresh Roll Bowls
 -----------------
 
+:guilabel:`Power Recipe`
+
 Ingredients
 ------------
 

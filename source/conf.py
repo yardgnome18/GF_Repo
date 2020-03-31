@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Gluten Free Recipe Repository'
-copyright = '2018, EB'
+copyright = '2019, Starfish Productions'
 author = 'EB'
 
 # The short X.Y version
-version = ''
+version = 'Version 1.1'
 # The full version, including alpha/beta/rc tags
-release = '0.01A'
+release = 'beta'
 
 
 # -- General configuration ---------------------------------------------------
@@ -89,7 +89,7 @@ html_theme = 'sphinx_rtd_theme'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['ystatic']
+html_static_path = ['_static']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -113,7 +113,7 @@ htmlhelp_basename = 'GF_Repo_Docs'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'papersize': 'ansiapaper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #

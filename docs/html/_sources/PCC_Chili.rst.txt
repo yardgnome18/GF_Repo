@@ -42,6 +42,12 @@ Ingredients
 
     2 T red wine
 
+    Sour Cream (garnish)
+
+    Shredded Cheese (optional)
+
+    Corn Chips (for dipping!)
+
 Preparation
 -----------
 

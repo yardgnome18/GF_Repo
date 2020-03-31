@@ -7,22 +7,8 @@ GLUTEN FREE RECIPE REPOSITORY
 
 .. toctree::
    :maxdepth: 1
-   :caption: Appetizers:
-
-   blueberry_qs
-   Cowboy_Caviar
-   fall_veg_hash
-   layered_hd
-   RRPS_Quinoa_Salsa
-   roasted_yam_dip
-   Potato_Sal
-   wrv_salad
-
-.. toctree::
-   :maxdepth: 1
    :caption: Entrees:
 
-   Asp_Risotto
    baconbrussel
    BBQ_Cluck_Salad
    Beef_Broc
@@ -31,39 +17,52 @@ GLUTEN FREE RECIPE REPOSITORY
    Cluck_FR
    Crockpot_Beef_Stew
    Hangover_Hash
-   Mid_Risotto
    Minestrone
-   Mexican_Pepper_Cassarole
+   Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
    Potato_Leek_Soup
-   RSRisotto
+   Quinoa_stuffing
+   roasted_v_quesadilla
    Skillet_Las
    SA_Quinoa_Salad
    SPH
-   Sweet_PS
+   ss_pork
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Thai Inspired:
+
+   Thai_Basil_Beef
+   Chopped_Thai_Cluck_Salad
+   FRB
+   Chop_Thai_Salad_w_Peanut_Sauce
+   thai_salad_peanutlime
+   PFR
+   Power_Salad
 
 .. toctree::
    :maxdepth: 1
    :caption: Casserole:
 
-   Bacon_Leek_Quiche
+   car_sp_gratin
    Chicken_EC
+   Mexican_Pepper_Cassarole
+   pastitsio
+   Polenta_L
    Potato_Pie
    Quiche
    Shep_Pie
 
 .. toctree::
    :maxdepth: 1
-   :caption: Thai Inspired:
+   :caption: Risotto:
 
-   Chop_Thai_Salad_w_Peanut_Sauce
-   Chopped_Thai_Cluck_Salad
-   FRB
-   Thai_Basil_Beef
-   thai_salad_peanutlime
-   PFR
-   Power_Salad
+   Asp_Risotto
+   Mid_Risotto
+   parmesan_r
+   RSRisotto
+   sp_feta_risotto
 
 .. toctree::
    :maxdepth: 1
@@ -71,11 +70,32 @@ GLUTEN FREE RECIPE REPOSITORY
 
    Apple_Cake
    Double_ASM
+   bananabar
    Candied_Pecans
-   chocolatechip_cookies
    carrotcake
+   chocolatechip_cookies
+   cinnamon_bisc
    Crockpot_Pumpkin_P
+   Muffin
+   oatmeal_cookies
    Peach_Crisp
    Pumpkin_Bread
    Salted_Caramel_Frosting
+   strawb_muffin
    spice_cake
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Appetizers:
+
+   blueberry_qs
+   Cowboy_Caviar
+   egg_salad
+   fall_veg_hash
+   layered_hd
+   RRPS_Quinoa_Salsa
+   roasted_yam_dip
+   Potato_Sal
+   Sweet_PS
+   wrv_salad
+

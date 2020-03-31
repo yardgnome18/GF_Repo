@@ -33,18 +33,24 @@ Ingredients
 
     cilantro, guacamole, or sour cream for topping
 
+Oven
+----------
+
+400 degress for 20 minutes
+
+
 Instructions
 ------------
 
-Pan-roast the veggies: Dice the peppers and mince the onions. Heat a large nonstick skillet with a little bit of oil over high heat 
+Pan-roast the veggies: Dice the peppers and mince the onions. Heat a large nonstick skillet with a little bit of oil over high heat
 
-Add the onion and peppers, sprinkle with chili and cumin, and stir, rest, stir, rest until you get a nice browning on the outside of the peppers. Remove and set aside. 
+Add the onion and peppers, sprinkle with chili and cumin, and stir, rest, stir, rest until you get a nice browning on the outside of the peppers. Remove and set aside.
 
-Repeat the roasting process with the corn, sprinkling with chili and cumin, removing from the heat when browned and roasted on the outside. 
+Repeat the roasting process with the corn, sprinkling with chili and cumin, removing from the heat when browned and roasted on the outside.
 
 Sprinkle the roasted veggies with a little bit of salt and toss to coat.
 
-Cut the tortillas into thin strips. 
+Cut the tortillas into thin strips.
 
 Put the refried beans in a bowl and mix with a little bit of water to make them easier to spread.
 
@@ -60,6 +66,6 @@ Bake
 
 Bake at 400
 
-Cover with foil (I usually spray mine with cooking spray) and bake for 15-20 minutes, until the sauce is bubbling and the cheese is melted. 
+Cover with foil (I usually spray mine with cooking spray) and bake for 15-20 minutes, until the sauce is bubbling and the cheese is melted.
 
 Serve with guacamole, fresh cilantro, sour cream, or anything in the world that you want.

@@ -4,7 +4,7 @@ Quiche
 
 
 Ingredients
------------
+---------------
 
 Crust
 ******
@@ -13,7 +13,7 @@ Crust
 
     1/4 C tapioca flour
 
-    3/4 C amarath flour
+    3/4 C almond flour
 
     1 t salt
 
@@ -23,8 +23,9 @@ Crust
 
     1/8+ C milk to consistency
 
-Filling
-********
+
+Ham and Onion Filling
+**********************
 
 ::
 
@@ -32,11 +33,24 @@ Filling
 
     8 oz diced ham
 
-    optional vegetables
-
     1 1/2 C grated monterey jack cheese
 
     1 C grated cheddar
+
+
+Bacon Leek Variety
+*********************
+
+::
+
+    1/2 pound good bacon, diced
+
+    1 small leek minced
+
+    1 medium bunch of fat asparagus spears
+
+    1/4 pound Gruyere, Emmenthaler, or Swiss cheese grated
+
 
 Egg Part
 **********
@@ -50,19 +64,25 @@ Egg Part
     3-4 eggs
 
 Oven
------
+------
 400 F for 35 to 40 mins
 
 Instructions
---------------
-1. Mix dry ingredients and wet ingredients sparately, combine and knead dough. Spread thin in pie dish.
+-------------------
 
+Prepare Dough
+***************
 
-2. Mix filling ingredients and fill prepared pan with crust in place.
+Whisk together dry ingredients, add milk and oil, knead until consistent. Press into pie dish working from the center to the edges then around the outside.
 
+Build the Quiche
+************************
 
-3. Beat liquid ingredients and pour over filling in crust, top with shredded cheese.
+Chop the filling ingredients and toss together before adding to pie pan.
 
+Layer cheese over the top, for bacon leek variety lay asperagus on top before spinkling cheese.
 
-4. Bake at 400 F for 35 to 40 min.
+Beat liquid ingredients until smooth and pour over filling into crust.
+
+Bake at 400 F for 35 to 40 min until top is golden brown.
 
